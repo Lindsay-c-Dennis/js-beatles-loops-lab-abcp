@@ -10,4 +10,5 @@ function johnLennonFacts(facts) {
   while (i<facts.length) {
     trivia.push(`${facts}!!!`);
   }
+  return trivia;
 }
